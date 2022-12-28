@@ -19,7 +19,7 @@
 
 ### **OUTPUT PROGRAM**
 
-![.](gambar/output.png)
+![.](gambar/Output.png)
 
 ### **Deskripsi**
 
